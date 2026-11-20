@@ -37,6 +37,8 @@
 
 - [2026年11月20日（金）｜Anthropic IPO価格決定、GeminiのMac操作、AI半導体設計、量子研究、AIセキュリティ](2026-11-20.md)
 
+- [2026年11月21日（土）｜Anthropic IPO完了、ChatGPT Space、利用ポリシー、山火事AI、Google Connected Apps](2026-11-21.md)
+
 ## 原稿の形式
 
 各記事には、発行日、ニュース5件の見出し・要約・背景、出典URL、必要に応じて編集上の注記を記録します。
